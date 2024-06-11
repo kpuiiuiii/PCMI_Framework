@@ -63,9 +63,6 @@ The project follows a standard Maven structure:
 
 This project is intended for the following interviewers at PCMI:
 
-- Eva Salazar (eva.salazar@pcmicorp.com)
-- Jamie Staggs (jamie.staggs@pcmicorp.com)
-- Kelley Padilla (kelley.padilla@pcmicorp.com)
-- Kianna Carter (kianna.carter@pcmicorp.com)
+
 - Renaldas Budrys (renaldas.budrys@pcmicorp.com)
 - Vishal Patel (vishal.patel@pcmicorp.com)
